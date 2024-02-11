@@ -81,3 +81,9 @@ Consider your application's needs and characteristics:
 1. Simple, infrequent use: Serverless is often ideal.
 2. Complex, long-running processes, or specific resource needs: Containerized deployments might be necessary.
 3. Hybrid options can offer flexibility for specific scenarios.
+
+### Only for homo sapiens who dared to read till the end🦧
+
+Complete collection of videos gather from the internet :-
+
+[Youtube playlist link](https://www.youtube.com/playlist?list=PLYPYshQsIFF3zq6p9q7rcLJqVJBgBko61)
